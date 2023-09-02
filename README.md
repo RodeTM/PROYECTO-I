@@ -1,5 +1,9 @@
 # PROYECTO-I
 Proyecto #1 2 codigos en Pseint, C++ y Python
+Videos:
+
+https://youtu.be/lFw2q1JuLBE
+https://youtu.be/z9yfeWMbat0
 
 ## Proyecto_Triple_de_Pitagoras
 
